@@ -15,7 +15,7 @@ public class Assg1 {
                 instruments[i] = new Piano();
             } else if (randNum == 2) {
                 instruments[i] = new Guitar();
-            } else if (randNum == 3) {
+            } else {
                 instruments[i] = new Flute();
             }
             instruments[i].play();
