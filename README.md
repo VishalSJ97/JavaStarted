@@ -32,5 +32,11 @@ There are 2 types of loops
    - Simple while loop
    - do while loop
 ---
-## 4. String and its methods
+## 4. Classes, Object and Types of classes
+
+1. Naming convention of Java Class.
+2. Classes, object and feature : It explains how to declare a class, how to create an object in Java
+3. Object declaration and initialization.
+4. Life cycle of an object.
+5. Anonymous objects in Java
 
